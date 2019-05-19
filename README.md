@@ -1,7 +1,5 @@
 > Matteo Merola CV CLI
 
-<img src="screenshot.png" width="760">
-
 ## Usage
 
 Install Node.js, then:
@@ -9,3 +7,5 @@ Install Node.js, then:
 ```
 $ npx mattmezza
 ```
+
+<img src="screenshot.jpg" width="760">
