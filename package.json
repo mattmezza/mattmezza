@@ -1,0 +1,72 @@
+{
+  "name": "mattmezza",
+  "version": "1.0.0",
+  "description": "Matteo Merola's Resume CLI",
+  "license": "MIT",
+  "author": "Matteo Merola",
+  "contributors": [
+    {
+      "name": "Matteo Merola",
+      "email": "mattmezza@gmail.com",
+      "url": "https://matteo.merola.co"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/mattmezza/mattmezza/issues"
+  },
+  "homepage": "https://github.com/mattmezza/mattmezza#readme",
+  "main": "./lib/index.js",
+  "scripts": {
+    "build": "babel lib --out-dir build",
+    "start": "yarn build && node ./bin/mattmezza.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "prepublishOnly" : "yarn build",
+  "bin": {
+    "spugachev": "./bin/mattmezza.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattmezza/mattmezza.git"
+  },
+  "keywords": [
+    "Matteo",
+    "Merola",
+    "Matteo Merola",
+    "resume"
+  ],
+  "dependencies": {
+    "ink": "^0.5.1",
+    "ink-box": "^0.1.0",
+    "ink-image": "^1.1.1",
+    "ink-select-input": "^2.0.0",
+    "ink-table": "^1.0.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.7.0"
+  },
+  "babel": {
+    "presets": [
+      [
+        "env",
+        {
+          "targets": {
+            "node": "5.0"
+          }
+        }
+      ]
+    ],
+    "plugins": [
+      [
+        "transform-react-jsx",
+        {
+          "pragma": "h"
+        }
+      ]
+    ]
+  }
+}
