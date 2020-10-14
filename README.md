@@ -6,4 +6,4 @@ Previously, I stated a [digital company](https://datasound.it), led the developm
 
 I occasionally write [some articles](https://matteo.merola.co/articles) and rarely [tweet](https://twitter.com/_mattmezza_).
 
-![](https://komarev.com/ghpvc/?username=mattmezza&style=flat-square)
+![](https://komarev.com/ghpvc/?username=mattmezza&style=flat-square) ####### since 14 Oct 2020
