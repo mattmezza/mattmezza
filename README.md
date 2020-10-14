@@ -1,11 +1,9 @@
-> Matteo Merola CV CLI
+## Matteo Merola
 
-## Usage
+I'm currently a [tech lead](https://linkedin.com/in/matteomerola) at [KLM](https://www.klm.com), working on turning [airline operations](https://airlineoperations.ai) into a competitive advantage ([watch](https://youtu.be/Tkn0Q-lkTP0)).
 
-Install Node.js, then:
+Previously, I stated a [digital company](https://datasound.it), led the development team in an [edutech startup](https://corsi.it), wrote [open source software](https://www.github.com/mattmezza) and collaborated with many companies in areas such as [fintech](https://bunq.com), and [greentech](https://cleaopa.de).
 
-```
-$ npx mattmezza
-```
+I occasionally write [some articles](https://matteo.merola.co/articles) and rarely [tweet](https://twitter.com/_mattmezza_).
 
-<img src="screenshot.jpg" width="760">
+![](https://komarev.com/ghpvc/?username=mattmezza&style=flat-square)
