@@ -1,6 +1,6 @@
 ## Matteo Merola
 
-I'm currently building [SaaS products[(https://saaskoala.com) such as [ZenLeadr](https://zenleadr.com/?utm_src=matteo.merola.co) that help people and businesses succeed.
+I'm currently building [SaaS products](https://saaskoala.com) such as [ZenLeadr](https://zenleadr.com/?utm_src=matteo.merola.co) that help people and businesses succeed.
 
 [ZenLeadr](https://zenleadr.com/?utm_src=matteo.merola.co) is a toolkit designed for engineering managers and leaders.
 
