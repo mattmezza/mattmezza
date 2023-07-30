@@ -1,8 +1,8 @@
 ## Matteo Merola
 
-I'm currently building [SaaS products](https://saaskoala.com) such as [ZenLeadr](https://zenleadr.com/?utm_src=matteo.merola.co) that help people and businesses succeed.
+I lead engineering teams at [IKEA](https://ikea.com)'s main franchisee, [Ingka](https://ingka.com).
 
-[ZenLeadr](https://zenleadr.com/?utm_src=matteo.merola.co) is a toolkit designed for engineering managers and leaders.
+I run [SaaS Koala](https://saaskoala.com), a company creating [products that help people and businesses succeed](https://saaskoala.com/more.html). Products like [ZenLeadr](https://zenleadr.com/?utm_src=github), the toolkit designed for engineering managers and leaders.
 
 Previously, I was an [Engineering Lead](https://www.linkedin.com/in/matteomerola/) at [Shell](https://shell.com), where I was leading +40 engineers building the operating system for the trade and supply business. Before that, I was a [tech lead](https://linkedin.com/in/matteomerola) at [KLM](https://www.klm.com), working on turning [airline operations](https://airlineoperations.ai) into a competitive advantage ([watch ↗](https://youtu.be/Tkn0Q-lkTP0)).
 
